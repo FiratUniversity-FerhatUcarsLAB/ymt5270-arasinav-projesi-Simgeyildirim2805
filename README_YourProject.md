@@ -99,7 +99,7 @@ Alternatif olarak bu çalışmada Support Vector Machines (SVM), Gradient Boosti
 Modellerin performansı Test & Score bileşeniyle çapraz doğrulama yöntemi kullanılarak değerlendirilmiştir. Buna ek olarak, sınıflandırma sonuçları Confusion Matrix ile görselleştirilmiş, Predictions bileşeni ile her bir gözlem için modelin tahmini ve doğruluğu incelenmiş, ROC Analysis bileşeniyle ise modellerin sınıfları ayırt etme yetenekleri analiz edilmiştir.
 İş akışı ayrıca Box Plot, Distributions, Correlation gibi EDA bileşenleriyle desteklenmiştir. Böylece hem keşifsel veri analizi hem de modelleme süreci entegre ve görsel bir yapı içerisinde yürütülmüştür.*
 
-![Orange İş Akışı](goruntuler/is_akisi.png)
+![Orange İş Akışı](goruntuler/iş akışı.png)
 
 ## Sonuç ve Öneriler
 > *Bu proje kapsamında, kalp yetmezliği hastalarına ait klinik veriler kullanılarak bireylerin yaşam durumlarının tahmini üzerine bir sınıflandırma çalışması gerçekleştirilmiştir. Orange platformu aracılığıyla yürütülen çalışmada dört farklı makine öğrenmesi algoritması karşılaştırılmış, elde edilen performans sonuçları temelinde en etkili modelin Random Forest olduğu belirlenmiştir. Bu model, hem doğruluk oranı hem de AUC değeri açısından diğer algoritmalara kıyasla üstün sonuçlar vermiştir. Logistic Regression modeli ise özellikle yorumlanabilirlik açısından güçlü bir alternatif olarak değerlendirilmiştir.
@@ -115,7 +115,7 @@ Gelecek çalışmalarda, model başarısını artırmak için hiperparametre opt
 
 ## Ekler
 ### Orange Proje Dosyası
-> YMT5270-Vize.ows
+> YMT5270-Vize.ows (project/YMT5270-Vize.ows)
 
 ### Veri Seti Dosyası veya Bağlantısı
-> hfail.csv
+> hfail.csv (project/hfail.csv)
